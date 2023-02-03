@@ -1,0 +1,3 @@
+       | Extra Large | Large Array | Medium Array | Small Array | Tiny Array |
+insert | 966.2449 ms | 7.6422 ms   | 754 μs       | 8.8 μs      | 18.9 μs    |
+append |  2.4471 ms  | 140.8 μs    | 838.9 μs     | 6.5 μs      | 7.2 μs     |
